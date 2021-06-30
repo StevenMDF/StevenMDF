@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StevenMDF
+- 👋 Hi, I’m @StevenMDF, a full-stack software developer and also IT lecturer at Whitecliffe College
 - 👀 I’m interested in Software Development, Machine Learning and Natural Language Processing
 - 🌱 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on any Python, C# and NLP projects
